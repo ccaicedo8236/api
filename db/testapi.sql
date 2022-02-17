@@ -1,3 +1,4 @@
+# con este script se puede crear la base, tabla y llenarla con datos de prueba
 CREATE DATABASE IF NOT EXISTS `testapi` ;
 
 use testapi;
